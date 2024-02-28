@@ -1,0 +1,15 @@
+.inverted,
+.yellow {
+    font-size: 28px;
+    font-family: Helvetica "Times New Roman" sans-serif
+}
+
+
+.inverted {
+    background-color: hsl(0, 0%, 0%);
+    color: hsl(0, 0%, 99%);
+    font-weight: 700
+}
+.yellow {
+    background-color: hsl(55, 100%, 59%)
+}
