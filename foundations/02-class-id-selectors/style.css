@@ -1,0 +1,16 @@
+p.color {
+    background-color: hsl(317, 45%, 71%);
+    font-family: Verdana, "DejaVu Sans", serif;
+}
+p.size {
+    font-size: 24px
+}
+#div1 {
+    color:hsl(230, 76%, 36%);
+    font-size: 36px
+}
+#div2 {
+    background-color:hsl(135, 71%, 80%);
+    font-size: 24px;
+    font-weight: 700
+}
